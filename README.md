@@ -2,7 +2,19 @@
 
 <img src="banner.svg" alt="Hi, I am Zeyad - DevOps & Platform Engineer" width="100%"/>
 
+<br/>
+
+<a href="https://github.com/Zeyad-Magdy0?tab=repositories"><img src="assets/icon-github.svg" width="48" height="48" alt="GitHub repositories" title="GitHub repositories"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/zeyad-elgammal0/"><img src="assets/icon-linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;
+<a href="https://zeyadelgammal.com"><img src="assets/icon-website.svg" width="48" height="48" alt="zeyadelgammal.com" title="zeyadelgammal.com"/></a>
+
 </div>
+
+## Portfolio
+
+DevOps & Platform Engineer building reliable cloud platforms, and an SEO technical writer who explains them. Check out my projects, my writing and how I can help your team.
+
+<a href="https://zeyadelgammal.com"><img src="assets/badge-visit.svg" height="44" alt="Visit zeyadelgammal.com" title="Visit zeyadelgammal.com"/></a>
 
 ## A Few Quick Facts
 
@@ -46,3 +58,21 @@
 </p>
 
 <sub>Hover over an icon to see the technology name.</sub>
+
+
+## ☕ Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/zeyad-elgammal0/"><img src="assets/badge-linkedin.svg" height="44" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;
+<a href="mailto:zeyadmagdy512@gmail.com"><img src="assets/badge-mail.svg" height="44" alt="Mail zeyadmagdy512@gmail.com" title="zeyadmagdy512@gmail.com"/></a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zeyad-Magdy0/Zeyad-Magdy0/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zeyad-Magdy0/Zeyad-Magdy0/output/github-snake.svg"/>
+  <img alt="Contribution graph snake eating the dots" src="https://raw.githubusercontent.com/Zeyad-Magdy0/Zeyad-Magdy0/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
