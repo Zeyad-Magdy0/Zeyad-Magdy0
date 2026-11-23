@@ -14,7 +14,7 @@
 
 DevOps & Platform Engineer building reliable cloud platforms, and an SEO technical writer who explains them. Check out my projects, my writing and how I can help your team.
 
-<a href="https://zeyadelgammal.com"><img src="assets/badge-visit.svg" height="56" alt="Visit zeyadelgammal.com" title="Visit zeyadelgammal.com"/></a>
+<a href="https://zeyadelgammal.com"><img src="assets/badge-visit.svg" height="44" alt="Visit zeyadelgammal.com" title="Visit zeyadelgammal.com"/></a>
 
 ## A Few Quick Facts
 
